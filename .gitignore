@@ -1,0 +1,35 @@
+
+# Keil uVision generated files
+*.obj
+*.lst
+*.m51
+*.hex
+*.abs
+*.build_log.htm
+*.htm
+*.plg
+*.bak
+*.uvgui.*
+*.uvopt
+*.uvoptx
+*.uvgui
+Listings/
+Objects/
+
+# Arduino build artifacts
+build/
+*.elf
+*.bin
+*.map
+*.tmp
+
+# Temporary and backup files
+*.log
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Local credentials - never commit real secrets
+secrets.h
+credentials.h
